@@ -3,26 +3,16 @@ import PropTypes from "prop-types";
 
 class App extends React.Component {
   state = {
-    count: 0
+    isLoading: true
   };
-  add = () => {
-    //this.state.count++;  이렇게 값을 직접 변경할 시 render()가 refresh되지 않아 정상 동작하지 않음.
-    this.setState(current => ({ count: current.count+1 }));
-    console.log("add");
-  };
-  minus = () => {
-    //this.state.count--;  이렇게 값을 직접 변경할 시 render()가 refresh되지 않아 정상 동작하지 않음.
-    this.setState(current => ({ count: current.count-1 })); 
-    console.log("minus");
-  };
+  componentDidMount(){
+    setTimeout(() => {
+      this.setState({ isLoading: false });
+    }, 2000);
+  }
   render(){
-    return (
-      <div>
-        <h1>The number is : {this.state.count}</h1>
-        <button onClick={this.add}>Add</button>
-        <button onClick={this.minus}>Minus</button>
-      </div>
-    );
+    const { isLoading } = this.state;
+    return <div>{isLoading ? "Loading..." : "We are ready"}</div>;
   }
 }
 
