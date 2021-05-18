@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hufstory_study/static/css/main.5b605531.chunk.css",
-    "main.js": "/hufstory_study/static/js/main.0e973505.chunk.js",
-    "main.js.map": "/hufstory_study/static/js/main.0e973505.chunk.js.map",
+    "main.css": "/hufstory_study/static/css/main.99fc07f3.chunk.css",
+    "main.js": "/hufstory_study/static/js/main.f05a4a49.chunk.js",
+    "main.js.map": "/hufstory_study/static/js/main.f05a4a49.chunk.js.map",
     "runtime-main.js": "/hufstory_study/static/js/runtime-main.48d2f6da.js",
     "runtime-main.js.map": "/hufstory_study/static/js/runtime-main.48d2f6da.js.map",
-    "static/js/2.6ce27cae.chunk.js": "/hufstory_study/static/js/2.6ce27cae.chunk.js",
-    "static/js/2.6ce27cae.chunk.js.map": "/hufstory_study/static/js/2.6ce27cae.chunk.js.map",
+    "static/js/2.4b80add1.chunk.js": "/hufstory_study/static/js/2.4b80add1.chunk.js",
+    "static/js/2.4b80add1.chunk.js.map": "/hufstory_study/static/js/2.4b80add1.chunk.js.map",
     "index.html": "/hufstory_study/index.html",
-    "static/css/main.5b605531.chunk.css.map": "/hufstory_study/static/css/main.5b605531.chunk.css.map",
-    "static/js/2.6ce27cae.chunk.js.LICENSE.txt": "/hufstory_study/static/js/2.6ce27cae.chunk.js.LICENSE.txt"
+    "static/css/main.99fc07f3.chunk.css.map": "/hufstory_study/static/css/main.99fc07f3.chunk.css.map",
+    "static/js/2.4b80add1.chunk.js.LICENSE.txt": "/hufstory_study/static/js/2.4b80add1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48d2f6da.js",
-    "static/js/2.6ce27cae.chunk.js",
-    "static/css/main.5b605531.chunk.css",
-    "static/js/main.0e973505.chunk.js"
+    "static/js/2.4b80add1.chunk.js",
+    "static/css/main.99fc07f3.chunk.css",
+    "static/js/main.f05a4a49.chunk.js"
   ]
 }
