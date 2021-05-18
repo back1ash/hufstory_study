@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hufstory_study/static/css/main.5b605531.chunk.css",
+    "main.js": "/Hufstory_study/static/js/main.215510a7.chunk.js",
+    "main.js.map": "/Hufstory_study/static/js/main.215510a7.chunk.js.map",
+    "runtime-main.js": "/Hufstory_study/static/js/runtime-main.9368d220.js",
+    "runtime-main.js.map": "/Hufstory_study/static/js/runtime-main.9368d220.js.map",
+    "static/js/2.6ce27cae.chunk.js": "/Hufstory_study/static/js/2.6ce27cae.chunk.js",
+    "static/js/2.6ce27cae.chunk.js.map": "/Hufstory_study/static/js/2.6ce27cae.chunk.js.map",
+    "index.html": "/Hufstory_study/index.html",
+    "static/css/main.5b605531.chunk.css.map": "/Hufstory_study/static/css/main.5b605531.chunk.css.map",
+    "static/js/2.6ce27cae.chunk.js.LICENSE.txt": "/Hufstory_study/static/js/2.6ce27cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9368d220.js",
+    "static/js/2.6ce27cae.chunk.js",
+    "static/css/main.5b605531.chunk.css",
+    "static/js/main.215510a7.chunk.js"
+  ]
+}
